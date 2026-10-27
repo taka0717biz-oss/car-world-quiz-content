@@ -17,6 +17,21 @@
       "originVerified": true
     },
     {
+      "id": "1993-mazda-rx7-fd",
+      "make": "Mazda",
+      "model": "RX-7 FD",
+      "year": 1993,
+      "city": "Hiroshima, Japan",
+      "lat": 34.3853,
+      "lon": 132.4553,
+      "description": "1993 Mazda RX-7 FD. Japanese rotary-engine sports coupe; generic AI-generated illustration.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/1993-mazda-rx7-fd.webp",
+      "availableFrom": "2026-10-29",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true
+    },
+    {
       "id": "1994-toyota-supra-mk4",
       "make": "Toyota",
       "model": "Supra MK IV",
