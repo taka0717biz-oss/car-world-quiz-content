@@ -75,6 +75,21 @@
       "published": true,
       "imageRightsApproved": true,
       "originVerified": true
+    },
+    {
+      "id": "2001-nissan-silvia-s15",
+      "make": "Nissan",
+      "model": "Silvia S15",
+      "year": 2001,
+      "city": "Yokohama, Japan",
+      "lat": 35.4437,
+      "lon": 139.638,
+      "description": "2001 Nissan Silvia S15. Japanese rear-wheel-drive sports coupe; generic AI-generated illustration.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/2001-nissan-silvia-s15.webp",
+      "availableFrom": "2026-10-29",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true
     }
   ]
 }
