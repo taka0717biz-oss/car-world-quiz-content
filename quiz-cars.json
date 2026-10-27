@@ -30,6 +30,21 @@
       "published": true,
       "imageRightsApproved": true,
       "originVerified": true
+    },
+    {
+      "id": "1995-mitsubishi-eclipse",
+      "make": "Mitsubishi",
+      "model": "Eclipse",
+      "year": 1995,
+      "city": "Tokyo, Japan",
+      "lat": 35.6762,
+      "lon": 139.6503,
+      "description": "1995 Mitsubishi Eclipse. Japanese-brand sport compact; generic AI-generated illustration.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/1995-mitsubishi-eclipse.webp",
+      "availableFrom": "2026-10-29",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true
     }
   ]
 }
