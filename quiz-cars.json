@@ -14,7 +14,10 @@
       "availableFrom": "2026-10-29",
       "published": true,
       "imageRightsApproved": true,
-      "originVerified": true
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
     },
     {
       "id": "1993-mazda-rx7-fd",
@@ -29,7 +32,10 @@
       "availableFrom": "2026-10-29",
       "published": true,
       "imageRightsApproved": true,
-      "originVerified": true
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
     },
     {
       "id": "1994-toyota-supra-mk4",
@@ -44,7 +50,10 @@
       "availableFrom": "2026-10-29",
       "published": true,
       "imageRightsApproved": true,
-      "originVerified": true
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
     },
     {
       "id": "1995-mitsubishi-eclipse",
@@ -59,7 +68,10 @@
       "availableFrom": "2026-10-29",
       "published": true,
       "imageRightsApproved": true,
-      "originVerified": true
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
     },
     {
       "id": "1999-nissan-skyline-gtr-r34",
@@ -74,7 +86,10 @@
       "availableFrom": "2026-10-29",
       "published": true,
       "imageRightsApproved": true,
-      "originVerified": true
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
     },
     {
       "id": "2001-nissan-silvia-s15",
@@ -89,7 +104,10 @@
       "availableFrom": "2026-10-29",
       "published": true,
       "imageRightsApproved": true,
-      "originVerified": true
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
     }
   ]
 }
