@@ -2,6 +2,21 @@
   "schema": 1,
   "cars": [
     {
+      "id": "1970-dodge-charger-rt",
+      "make": "Dodge",
+      "model": "Charger R/T",
+      "year": 1970,
+      "city": "Detroit, USA",
+      "lat": 42.3314,
+      "lon": -83.0458,
+      "description": "1970 Dodge Charger R/T. Classic American V8 muscle coupe; generic AI-generated road-car illustration.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/1970-dodge-charger-rt.webp",
+      "availableFrom": "2026-10-29",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true
+    },
+    {
       "id": "1994-toyota-supra-mk4",
       "make": "Toyota",
       "model": "Supra MK IV",
