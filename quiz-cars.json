@@ -1,4 +1,20 @@
 {
   "schema": 1,
-  "cars": []
+  "cars": [
+    {
+      "id": "1994-toyota-supra-mk4",
+      "make": "Toyota",
+      "model": "Supra MK IV",
+      "year": 1994,
+      "city": "Toyota City, Japan",
+      "lat": 35.0833,
+      "lon": 137.1567,
+      "description": "1994 Toyota Supra MK IV. Japanese sports coupe; generic AI-generated road-car illustration.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/1994-toyota-supra-mk4.webp",
+      "availableFrom": "2026-10-29",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true
+    }
+  ]
 }
