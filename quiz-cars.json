@@ -45,6 +45,21 @@
       "published": true,
       "imageRightsApproved": true,
       "originVerified": true
+    },
+    {
+      "id": "1999-nissan-skyline-gtr-r34",
+      "make": "Nissan",
+      "model": "Skyline GT-R R34",
+      "year": 1999,
+      "city": "Yokohama, Japan",
+      "lat": 35.4437,
+      "lon": 139.638,
+      "description": "1999 Nissan Skyline GT-R R34. Japanese high-performance coupe; generic AI-generated illustration.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/1999-nissan-skyline-gtr-r34.webp",
+      "availableFrom": "2026-10-29",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true
     }
   ]
 }
