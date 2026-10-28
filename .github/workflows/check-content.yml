@@ -1,0 +1,20 @@
+name: Validate quiz content
+on:
+  pull_request:
+    paths:
+      - 'quiz-cars.json'
+      - 'fast-furious-cars.json'
+      - 'images/**'
+      - 'scripts/check-content.mjs'
+  push:
+    branches: [main]
+jobs:
+  content:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Validate movie quiz feed
+        run: node scripts/check-content.mjs
