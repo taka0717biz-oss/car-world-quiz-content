@@ -20,6 +20,42 @@
       ]
     },
     {
+      "id": "1969-yenko-camaro-syc",
+      "make": "Yenko",
+      "model": "Camaro SYC",
+      "year": 1969,
+      "city": "Canonsburg, USA",
+      "lat": 40.2626,
+      "lon": -80.1873,
+      "description": "1969 Yenko Camaro SYC. American high-performance Camaro conversion; original AI-generated classic-model reference, not the actual movie car.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/1969-yenko-camaro-syc.webp",
+      "availableFrom": "2026-10-30",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
+    },
+    {
+      "id": "1970-chevrolet-chevelle-ss",
+      "make": "Chevrolet",
+      "model": "Chevelle SS",
+      "year": 1970,
+      "city": "Detroit, USA",
+      "lat": 42.3314,
+      "lon": -83.0458,
+      "description": "1970 Chevrolet Chevelle SS. American muscle car; original AI-generated stock-model reference image, not a film still.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/1970-chevrolet-chevelle-ss.webp",
+      "availableFrom": "2026-10-30",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
+    },
+    {
       "id": "1970-dodge-challenger-rt",
       "make": "Dodge",
       "model": "Challenger R/T",
@@ -200,6 +236,42 @@
       ]
     },
     {
+      "id": "2003-dodge-viper-srt10",
+      "make": "Dodge",
+      "model": "Viper SRT-10",
+      "year": 2003,
+      "city": "Detroit, USA",
+      "lat": 42.3314,
+      "lon": -83.0458,
+      "description": "2003 Dodge Viper SRT-10. American V10 performance sports car; original AI-generated model-reference image, not a film still.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/2003-dodge-viper-srt10.webp",
+      "availableFrom": "2026-10-30",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
+    },
+    {
+      "id": "2004-mazda-rx8",
+      "make": "Mazda",
+      "model": "RX-8",
+      "year": 2004,
+      "city": "Hiroshima, Japan",
+      "lat": 34.3853,
+      "lon": 132.4553,
+      "description": "2004 Mazda RX-8. Japanese rotary-engine four-door sports coupe; original AI-generated reference illustration, not movie footage.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/2004-mazda-rx8.webp",
+      "availableFrom": "2026-10-30",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
+    },
+    {
       "id": "2005-nissan-350z",
       "make": "Nissan",
       "model": "350Z",
@@ -210,6 +282,42 @@
       "description": "2005 Nissan 350Z Z33. Japanese rear-wheel-drive sports coupe; original AI-generated model-reference illustration.",
       "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/2005-nissan-350z.webp",
       "availableFrom": "2026-10-29",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
+    },
+    {
+      "id": "2009-subaru-impreza-wrx-sti",
+      "make": "Subaru",
+      "model": "Impreza WRX STi",
+      "year": 2009,
+      "city": "Ota, Japan",
+      "lat": 36.2919,
+      "lon": 139.3754,
+      "description": "2009 Subaru Impreza WRX STI hatchback. Japanese performance car; original AI-generated model-reference image, not a movie still.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/2009-subaru-impreza-wrx-sti.webp",
+      "availableFrom": "2026-10-30",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
+    },
+    {
+      "id": "2010-alfa-romeo-giulietta",
+      "make": "Alfa Romeo",
+      "model": "Giulietta",
+      "year": 2010,
+      "city": "Cassino, Italy",
+      "lat": 41.4921,
+      "lon": 13.8303,
+      "description": "2010 Alfa Romeo Giulietta. Italian compact hatchback; original AI-generated model-reference image, not a film still.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/2010-alfa-romeo-giulietta.webp",
+      "availableFrom": "2026-10-30",
       "published": true,
       "imageRightsApproved": true,
       "originVerified": true,
