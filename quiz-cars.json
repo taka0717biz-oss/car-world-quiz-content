@@ -2,6 +2,42 @@
   "schema": 1,
   "cars": [
     {
+      "id": "1967-ford-mustang",
+      "make": "Ford",
+      "model": "Mustang Fastback",
+      "year": 1967,
+      "city": "Dearborn, USA",
+      "lat": 42.3223,
+      "lon": -83.1763,
+      "description": "1967 Ford Mustang Fastback. American pony car; original AI-generated model-reference illustration.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/1967-ford-mustang.webp",
+      "availableFrom": "2026-10-29",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
+    },
+    {
+      "id": "1970-dodge-challenger-rt",
+      "make": "Dodge",
+      "model": "Challenger R/T",
+      "year": 1970,
+      "city": "Detroit, USA",
+      "lat": 42.3314,
+      "lon": -83.0458,
+      "description": "1970 Dodge Challenger R/T. American muscle coupe; original AI-generated model-reference illustration.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/1970-dodge-challenger-rt.webp",
+      "availableFrom": "2026-10-29",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
+    },
+    {
       "id": "1970-dodge-charger-rt",
       "make": "Dodge",
       "model": "Charger R/T",
@@ -74,6 +110,24 @@
       ]
     },
     {
+      "id": "1995-volkswagen-jetta",
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "year": 1995,
+      "city": "Wolfsburg, Germany",
+      "lat": 52.4227,
+      "lon": 10.7865,
+      "description": "1995 Volkswagen Jetta. German compact sedan; original AI-generated model-reference illustration.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/1995-volkswagen-jetta.webp",
+      "availableFrom": "2026-10-29",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
+    },
+    {
       "id": "1999-nissan-skyline-gtr-r34",
       "make": "Nissan",
       "model": "Skyline GT-R R34",
@@ -92,6 +146,24 @@
       ]
     },
     {
+      "id": "2001-honda-s2000",
+      "make": "Honda",
+      "model": "S2000 (Suki)",
+      "year": 2001,
+      "city": "Tochigi, Japan",
+      "lat": 36.5657,
+      "lon": 139.8836,
+      "description": "2001 Honda S2000 AP1. Japanese open-top sports car; original AI-generated model-reference illustration.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/2001-honda-s2000.webp",
+      "availableFrom": "2026-10-29",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
+    },
+    {
       "id": "2001-nissan-silvia-s15",
       "make": "Nissan",
       "model": "Silvia S15",
@@ -101,6 +173,42 @@
       "lon": 139.638,
       "description": "2001 Nissan Silvia S15. Japanese rear-wheel-drive sports coupe; generic AI-generated illustration.",
       "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/2001-nissan-silvia-s15.webp",
+      "availableFrom": "2026-10-29",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
+    },
+    {
+      "id": "2002-mitsubishi-lancer-evolution-vii",
+      "make": "Mitsubishi",
+      "model": "Lancer Evolution VII",
+      "year": 2002,
+      "city": "Tokyo, Japan",
+      "lat": 35.6762,
+      "lon": 139.6503,
+      "description": "2002 Mitsubishi Lancer Evolution VII. Japanese rally-bred performance sedan; original AI-generated model-reference illustration.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/2002-mitsubishi-lancer-evolution-vii.webp",
+      "availableFrom": "2026-10-29",
+      "published": true,
+      "imageRightsApproved": true,
+      "originVerified": true,
+      "collections": [
+        "fast-furious"
+      ]
+    },
+    {
+      "id": "2005-nissan-350z",
+      "make": "Nissan",
+      "model": "350Z",
+      "year": 2005,
+      "city": "Yokohama, Japan",
+      "lat": 35.4437,
+      "lon": 139.638,
+      "description": "2005 Nissan 350Z Z33. Japanese rear-wheel-drive sports coupe; original AI-generated model-reference illustration.",
+      "image": "https://raw.githubusercontent.com/taka0717biz-oss/car-world-quiz-content/main/images/2005-nissan-350z.webp",
       "availableFrom": "2026-10-29",
       "published": true,
       "imageRightsApproved": true,
