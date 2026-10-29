@@ -17,3 +17,19 @@ In iOS 1.2 and later, approved cars in quiz-cars.json are merged into the actual
 For each new car, validate its film reference and manufacturer country; prepare an original square WebP image, put it in images, append the matching quiz-cars.json record, and mark exactly the matching film catalog record quizReady. Run node scripts/check-content.mjs after updating the files; GitHub Actions also checks the public feed. These checks do not replace editorial or image-rights review.
 
 Never add newly playable cars in the middle of a JST ranking day. Set availableFrom to a FUTURE JST date, preferably the next day or later, so everybody receives the same five questions on a given day. The app must be iOS 1.2+; the current publicly released 1.1 does not load this remote feed.
+
+
+## Movie-color art refresh (2026-10-29 JST)
+
+The six existing movie-car quiz items Toyota Supra MK IV, Mitsubishi Eclipse,
+Nissan Skyline GT-R R34, Mazda RX-7 FD (1993), Honda S2000 (Suki), and
+Nissan 350Z were given original 512x512 WebP artworks with movie-inspired
+body colors and **simplified original patterns**, not official car-wrap copies.
+
+The 1993 red Mazda RX-7 is distinct from Han's orange/black VeilSide
+RX-7 in Tokyo Drift. The existing 2005 Nissan 350Z quiz entry is not
+asserted to be the exact 2003 D.K. screen car. There are no film stills or
+official franchise graphics in the game art.
+
+All IDs, years, locations, availability dates, and the full 18-car ranked
+pool are unchanged. Filenames are versioned so clients fetch refreshed art.
